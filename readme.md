@@ -1,8 +1,8 @@
    
    
-    #  Node.js and MySQL
+    # Node.js and MySQL
     
-    ## Very simple application using Node.js, Knex-SQL query builder
+    ##Very simple application using Node.js, Knex-SQL query builder
     
 
  
